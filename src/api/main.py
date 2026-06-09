@@ -1,7 +1,8 @@
 """FastAPI application entrypoint for the document intelligence RAG platform."""
 from __future__ import annotations
 
-from fastapi import FastAPI
+from fastapi import FastAPI # type: ignore
+from fastapi.middleware.cors import CORSMiddleware # type: ignore
 
 from src.api.routes import router
 from src.monitoring import metrics_app
@@ -11,6 +12,17 @@ app = FastAPI(
     version="0.1.0",
     description="Spark ingestion + Snowflake metadata + XGBoost router + "
     "FastAPI retrieval + LLM answers.",
+)
+
+# Allow the React dev server to call the API from the browser.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+        "http://localhost:3000",
+    ],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(router)
