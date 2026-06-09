@@ -1,0 +1,1 @@
+Code review standards. Every pull request needs at least one approving review before merge. Reviewers check for tests, readability, and security issues. Large changes should be split into smaller pull requests. The continuous integration suite must pass before merging.

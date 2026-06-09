@@ -1,0 +1,1 @@
+Deployment pipeline. All changes go through pull request review and continuous integration. Images are built with Docker and deployed to Kubernetes via a rolling update. Canary traffic starts at five percent and increases if latency and error metrics stay healthy.

@@ -1,0 +1,16 @@
+services:
+  api:
+    build: .
+    image: rag-doc-intelligence:latest
+    env_file: .env
+    ports:
+      - "8000:8000"
+
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    depends_on:
+      - api

@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rag-config
+data:
+  LLM_PROVIDER: "stub"
+  EMBEDDING_BACKEND: "hashing"
+  EMBEDDING_DIM: "384"
+  TOP_K: "4"
+  VECTOR_STORE_PATH: "/app/artifacts/vectorstore"
+  ROUTER_MODEL_PATH: "/app/artifacts/router/router.joblib"
+  METADATA_LOCAL_PATH: "/app/artifacts/metadata.sqlite"

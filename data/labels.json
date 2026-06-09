@@ -1,0 +1,18 @@
+{
+  "hr_pto_policy": "hr",
+  "hr_remote_work": "hr",
+  "hr_benefits": "hr",
+  "hr_onboarding": "hr",
+  "finance_expense": "finance",
+  "finance_quarterly": "finance",
+  "finance_procurement": "finance",
+  "finance_budget": "finance",
+  "engineering_oncall": "engineering",
+  "engineering_deploy": "engineering",
+  "engineering_code_review": "engineering",
+  "engineering_architecture": "engineering",
+  "legal_nda": "legal",
+  "legal_data_retention": "legal",
+  "legal_privacy": "legal",
+  "legal_contracts": "legal"
+}

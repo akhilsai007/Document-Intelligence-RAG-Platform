@@ -1,0 +1,1 @@
+On-call runbook. The primary on-call engineer acknowledges pages within five minutes. Severity one incidents require a status update every 30 minutes. Roll back the most recent deployment if error rates exceed two percent. Post-incident reviews are blameless and due within 48 hours.

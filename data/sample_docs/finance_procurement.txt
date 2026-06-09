@@ -1,0 +1,1 @@
+Procurement and purchase orders. Any purchase above 5000 dollars requires a purchase order approved by finance before the vendor is engaged. Preferred vendors offer negotiated pricing. Invoices are paid on net 30 terms unless otherwise agreed in the contract.

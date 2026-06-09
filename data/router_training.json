@@ -1,0 +1,258 @@
+[
+  {
+    "text": "how many vacation days",
+    "category": "hr"
+  },
+  {
+    "text": "paid time off policy",
+    "category": "hr"
+  },
+  {
+    "text": "sick leave allowance",
+    "category": "hr"
+  },
+  {
+    "text": "request pto in the portal",
+    "category": "hr"
+  },
+  {
+    "text": "remote work from home policy",
+    "category": "hr"
+  },
+  {
+    "text": "home office stipend",
+    "category": "hr"
+  },
+  {
+    "text": "parental leave weeks",
+    "category": "hr"
+  },
+  {
+    "text": "employee benefits and 401k",
+    "category": "hr"
+  },
+  {
+    "text": "health and dental insurance",
+    "category": "hr"
+  },
+  {
+    "text": "open enrollment benefits",
+    "category": "hr"
+  },
+  {
+    "text": "new hire onboarding",
+    "category": "hr"
+  },
+  {
+    "text": "onboarding buddy and laptop",
+    "category": "hr"
+  },
+  {
+    "text": "manager approval to work remotely",
+    "category": "hr"
+  },
+  {
+    "text": "carry over unused vacation",
+    "category": "hr"
+  },
+  {
+    "text": "vacation accrual per year",
+    "category": "hr"
+  },
+  {
+    "text": "sick days off work",
+    "category": "hr"
+  },
+  {
+    "text": "expense reimbursement receipts",
+    "category": "finance"
+  },
+  {
+    "text": "meal limit while traveling",
+    "category": "finance"
+  },
+  {
+    "text": "book airfare economy class",
+    "category": "finance"
+  },
+  {
+    "text": "quarterly close ledger",
+    "category": "finance"
+  },
+  {
+    "text": "revenue recognition rules",
+    "category": "finance"
+  },
+  {
+    "text": "variance against budget",
+    "category": "finance"
+  },
+  {
+    "text": "purchase order approval",
+    "category": "finance"
+  },
+  {
+    "text": "preferred vendor pricing",
+    "category": "finance"
+  },
+  {
+    "text": "net 30 invoice terms",
+    "category": "finance"
+  },
+  {
+    "text": "annual budgeting cycle",
+    "category": "finance"
+  },
+  {
+    "text": "capital expenditure forecast",
+    "category": "finance"
+  },
+  {
+    "text": "submit budget proposal",
+    "category": "finance"
+  },
+  {
+    "text": "cost center owner approval",
+    "category": "finance"
+  },
+  {
+    "text": "reimbursed in next payroll",
+    "category": "finance"
+  },
+  {
+    "text": "travel expense receipts",
+    "category": "finance"
+  },
+  {
+    "text": "vendor invoice payment",
+    "category": "finance"
+  },
+  {
+    "text": "on call incident response",
+    "category": "engineering"
+  },
+  {
+    "text": "severity one status update",
+    "category": "engineering"
+  },
+  {
+    "text": "roll back deployment error rate",
+    "category": "engineering"
+  },
+  {
+    "text": "docker image build pipeline",
+    "category": "engineering"
+  },
+  {
+    "text": "kubernetes rolling update",
+    "category": "engineering"
+  },
+  {
+    "text": "canary traffic percentage",
+    "category": "engineering"
+  },
+  {
+    "text": "pull request code review",
+    "category": "engineering"
+  },
+  {
+    "text": "continuous integration must pass",
+    "category": "engineering"
+  },
+  {
+    "text": "microservice rest event bus",
+    "category": "engineering"
+  },
+  {
+    "text": "terraform infrastructure provisioning",
+    "category": "engineering"
+  },
+  {
+    "text": "service health metrics endpoint",
+    "category": "engineering"
+  },
+  {
+    "text": "blameless post incident review",
+    "category": "engineering"
+  },
+  {
+    "text": "split large pull request",
+    "category": "engineering"
+  },
+  {
+    "text": "deploy to production",
+    "category": "engineering"
+  },
+  {
+    "text": "rollback on high error rate",
+    "category": "engineering"
+  },
+  {
+    "text": "review pull request before merge",
+    "category": "engineering"
+  },
+  {
+    "text": "non disclosure agreement",
+    "category": "legal"
+  },
+  {
+    "text": "confidential information third parties",
+    "category": "legal"
+  },
+  {
+    "text": "data retention period",
+    "category": "legal"
+  },
+  {
+    "text": "delete my personal data",
+    "category": "legal"
+  },
+  {
+    "text": "privacy policy data collection",
+    "category": "legal"
+  },
+  {
+    "text": "audit log retention",
+    "category": "legal"
+  },
+  {
+    "text": "contract review liability cap",
+    "category": "legal"
+  },
+  {
+    "text": "indemnification clause review",
+    "category": "legal"
+  },
+  {
+    "text": "governing law and termination",
+    "category": "legal"
+  },
+  {
+    "text": "authorized signatory only",
+    "category": "legal"
+  },
+  {
+    "text": "records schedule purge",
+    "category": "legal"
+  },
+  {
+    "text": "request access to my data",
+    "category": "legal"
+  },
+  {
+    "text": "breach injunctive relief",
+    "category": "legal"
+  },
+  {
+    "text": "vendor contract signature",
+    "category": "legal"
+  },
+  {
+    "text": "customer data deletion request",
+    "category": "legal"
+  },
+  {
+    "text": "confidentiality survives termination",
+    "category": "legal"
+  }
+]
