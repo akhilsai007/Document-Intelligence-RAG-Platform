@@ -1,1 +1,0 @@
-Contract review guidelines. All vendor and customer contracts are reviewed by the legal team before signature. Pay attention to liability caps, indemnification clauses, governing law, and termination rights. Only authorized signatories may execute a binding agreement.

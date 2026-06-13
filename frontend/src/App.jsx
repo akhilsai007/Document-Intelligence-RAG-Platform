@@ -4,12 +4,10 @@ import "./App.css";
 const API_URL = "http://localhost:8000";
 
 const EXAMPLES = [
-  "How many vacation days do I get?",
-  "What benefits does the company offer?",
-  "What is the expense approval process?",
-  "How do code reviews work?",
-  "What is the data retention period?",
-  "What are the remote work rules?",
+  "What is retrieval-augmented generation?",
+  "How does dense passage retrieval work?",
+  "What is a reward function in reinforcement learning?",
+  "What are scaling laws for large language models?",
 ];
 
 function IconLogo() {

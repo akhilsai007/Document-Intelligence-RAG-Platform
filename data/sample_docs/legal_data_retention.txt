@@ -1,1 +1,0 @@
-Data retention standard. Customer personal data is retained only as long as necessary for the stated purpose. Deletion requests are honored within 30 days. Audit logs are retained for one year and then purged according to the records schedule.

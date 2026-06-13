@@ -9,3 +9,4 @@ artifacts/
 .ipynb_checkpoints/
 dist/
 build/
+data/sample_docs/*.pdf

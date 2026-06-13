@@ -1,1 +1,0 @@
-Service architecture overview. Microservices communicate over REST and an event bus. Each service owns its database and exposes health and metrics endpoints. Infrastructure is provisioned with Terraform and runs on a managed Kubernetes cluster in the cloud.
